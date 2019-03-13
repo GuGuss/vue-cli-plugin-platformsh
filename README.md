@@ -20,3 +20,13 @@ Add the Platform.sh plugin:
 cd my-vue-project
 vue add platformsh
 ```
+
+## Fetch Platform.sh environment variables
+
+The plugin will automatically extract the Platform.sh environment variables.
+
+To fetch those, you simply need to import the following package:
+
+```bash
+import platformshVar from 'platformsh_variables'
+```
