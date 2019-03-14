@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-platformsh",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "vue-cli plugin to add Platform.sh configuration files to a Vue.js project",
   "main": "index.js",
   "repository": {
