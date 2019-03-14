@@ -22,7 +22,7 @@ web:
                 ^/robots\.txt$:
                     allow: true
 
-disk: 2048
+disk: 512
 
 mounts:
   '/build_platform': 'shared:files/build_platform'
